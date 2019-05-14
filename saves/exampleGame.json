@@ -1,0 +1,18 @@
+{
+  "red": {
+    "pieces": [
+      "a5"
+    ],
+    "kings": []
+  },
+  "black": {
+    "pieces": [
+      "c3"
+    ],
+    "kings": []
+  },
+  "turn": 1,
+  "opp": "Easy AI",
+  "moves": 10,
+  "game": "regular"
+}
